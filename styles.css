@@ -21,7 +21,7 @@ h1 {
 }
 
 header {
-    display: flex;
+    display: absolute;
     min-height: 75px;
     background-color: dodgerblue;
     justify-content: space-between;
